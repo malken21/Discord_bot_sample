@@ -11,4 +11,4 @@ client.on('messageCreate', message => {
 	  message.reply("test");
 	}
 });
-client.login('Nzk4NzcyMzE5MTU3NDg1NjMy.X_54sQ.sq7ekHoNVOtvk14m8sxTo-p49Yw');
+client.login('');
