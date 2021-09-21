@@ -11,4 +11,4 @@ client.on('messageCreate', message => {
 	  message.reply("test");
 	}
 });
-client.login('');
+client.login('ここに自分のbotのTOKENをいれて');
