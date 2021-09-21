@@ -8,7 +8,7 @@ client.on("ready", () => {
 
 client.on('messageCreate', message => {
 	if (message.content === 'test' && !message.author.bot) {
-	  message.reply("test");
+	    message.reply({ content: 'test', allowedMentions: { repliedUser: false }})
 	}
 });
 client.login('ここに自分のbotのTOKENをいれて');
