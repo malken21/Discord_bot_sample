@@ -6,3 +6,9 @@ bot以外のユーザーが
 test と発言すると
 <br>
 botが test と言い返してくれるbot
+<br>
+Users other than bots
+<br>
+When you say test
+<br>
+The bot will say test back 
