@@ -1,6 +1,7 @@
 # Discord_bot_sample
 Discord.js  v13
 <br>
+<br>
 bot以外のユーザーが
 <br>
 test と発言すると
