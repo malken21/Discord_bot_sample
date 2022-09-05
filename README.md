@@ -1,5 +1,5 @@
 # Discord_bot_sample
-Discord.js  v13
+Discord.js  v14
 <br>
 <br>
 bot以外のユーザーが
