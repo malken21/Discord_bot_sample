@@ -1,16 +1,15 @@
 {
-  "name": "marumasajs.bot",
+  "name": "Discord_bot_sample",
   "version": "1.0.0",
-  "description": "Discord_bot",
+  "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "MarumasaJs",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "aoi.js": "^4.4.4",
-    "discord.js": "^13.1.0"
+    "discord.js": "^14.3.0"
   }
 }
